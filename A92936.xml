@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sad sigh, vvith some heart-cracking groanes sent after the Lord Governour and his whole hoast of mirmidons.</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92936</idno><idno type="EEBO-CITATION">99863404</idno>
+  <idno type="VID">165264</idno>
+  <idno type="EEBO-PROQUEST">2240942668</idno>
+  
+            <idno type="STC">Wing S261</idno>
+            <idno type="STC">Thomason E565_1</idno>
+            <idno type="STC">ESTC R203452</idno>
+            <idno type="PROQUEST">99863404</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99863404e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92936)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165264)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 87:E565[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sad sigh, vvith some heart-cracking groanes sent after the Lord Governour and his whole hoast of mirmidons.</title>
+               </titleStmt>
+               <extent>[1], 7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>An attack on Cromwell.</note>
+                  <note>In verse.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "July. 16".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Cromwell, Oliver, 1599-1658.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165264:1"/>
+            <pb facs="tcp:165264:1"/>
+            <p>A SAD SIGH, WITH SOME Heart-Cracking Groanes sent after the LORD GOVER<g ref="char:EOLhyphen"/>NOUR and his whole Hoast of <hi>MIRMIDONS.</hi>
+            </p>
+            <p>Printed in the Yeare 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:165264:2"/>
+            <head>A sad Sigh, with some Heart-crak<g ref="char:EOLhyphen"/>ing Groans sent after the LORD <hi>Governour,</hi> and his whole Hoast of <hi>Mirmidons.</hi>
+            </head>
+            <lg>
+               <l>ANd art thou gon, great Sir, great Don, great Dagon?</l>
+               <l>Wh'art able to out-face <hi>Bell</hi> and the <hi>Dragon;</hi>
+               </l>
+               <l>The burning rage of whose victorious snout</l>
+               <l>A <hi>Hambletonian Army</hi> put to rout.</l>
+               <l>O that our heads held Kilderkins of Beare</l>
+               <l>Strong as <hi>Prides Ale,</hi> to shed, stead of each teare</l>
+               <l>Should drown our words, and make our sad noates quaver</l>
+               <l>Forth dribling roapes of spittle, snot, and slaver.</l>
+               <l>Bring, bring me here <hi>Melpomine,</hi> thou <hi>Muse,</hi>
+               </l>
+               <l>The fabl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>st dresse thy buskin'd Poets use,</l>
+               <l>That I may shew how this dread Lamentation</l>
+               <l>Hath crackt th' reformed Arse-strings of our Nation.</l>
+               <l>O could we heare a Kennell of the best</l>
+               <l>Mouth'd Blood-hounds that ere smelt Thanksgiving-feast;</l>
+               <l>Or could we heare of howleing woules a crew,</l>
+               <l>Feircer 'mongst Lambs then <hi>Presbyter</hi> or <hi>Iew,</hi>
+               </l>
+               <l>(Who take for Tithe both skin and flesh and wool,</l>
+               <l>And yealp Sedition forth whole Pulpits full)</l>
+               <l>Or could we heare but with what roaring throats,</l>
+               <l>A <hi>Parliament of Fiends</hi> could belch forth Votes.</l>
+               <l>Of Non-addresses to the throne of Grace,</l>
+               <l>(Because they dare not view Majesties faces.)</l>
+               <l>Or could ye hear their hideous screeching, growleing</l>
+               <l>When Witches send for them a catter whauling.</l>
+               <l>Had we a heard of most impetuous town bulls</l>
+               <l>To bellow (like <hi>Hal Martin</hi> after's brown trulls.</l>
+               <pb n="2" facs="tcp:165264:2"/>
+               <l>Or could we heare the banefull resonances</l>
+               <l>Of Screech owles <hi>(like the Commons Ordinances)</hi>
+               </l>
+               <l>That fright poor trembling innocents i'th' night;</l>
+               <l>(As if their fatall cryes were just and right)</l>
+               <l>Were all the Whores at Shrove-tide put to rout,</l>
+               <l>And could you hear them squeek, whilst the boyes shout.</l>
+               <l>Were all these horrid noyses put together</l>
+               <l>To raise the fiends, or conjure up foule weather;</l>
+               <l>Such such a sound, nor all these yealps and rorings,</l>
+               <l>Could never equall our more sad deplorings:</l>
+               <l>For we must loose, Oh! how it stops my breath.</l>
+               <l>To think how <hi>Oliver</hi> must tugge with death:</l>
+               <l>That ene the grim-fac'd Skelleton will dread</l>
+               <l>To be by furious <hi>Oliver</hi> strooke dead,</l>
+               <l>And buried in a nasty <hi>Irish</hi> bogge,</l>
+               <l>(As if he were oth' two the fiercer dog.)</l>
+               <l>Nay we must loose (for absence still implyes</l>
+               <l>Alasse for th' present to our weeping eyes)</l>
+               <l>The best part of that most <hi>Religious</hi> rable</l>
+               <l>That made <hi>Saint Paules</hi> a den of theeves and stable,</l>
+               <l>Who had so fairly brought on Reformation,</l>
+               <l>That horses seem'd more holy then the Nation.</l>
+               <l>Nay (thank our stars, or our Rebellion rather)</l>
+               <l>'Tis Treason now to obey or King or father,</l>
+               <l>To go to Church ere long (if they had staid)</l>
+               <l>The Puritans I <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t would have been fraid:</l>
+               <l>Had we not now both liberty and ease</l>
+               <l>To pay large Taxes, and the Army please</l>
+               <l>With full fre-quarter? did not th' Parliament</l>
+               <l>By force of th' Army make us all content</l>
+               <l>With liberty of Conscience to adore</l>
+               <l>
+                  <hi>Our Calves-head Gods of England;</hi> least we shou'd</l>
+               <l>Revenge our late dread Soveraigns guiltlesse blood?</l>
+               <l>Nay more, pray wou'd not this reforming rout</l>
+               <l>Have compeld all to worship mighty snout?</l>
+               <l>O what brave times should we have seen</l>
+               <l>If these had stayd, the Churches would have been</l>
+               <l>Reform'd to Brothels, and that deadly crime</l>
+               <l>Of piety been taxt for Atheism, in short time.</l>
+               <pb n="3" facs="tcp:165264:3"/>
+               <l>Iudge you Gentlemen, have we not cause</l>
+               <l>To waile his losse, would have reform'd our Laws?</l>
+               <l>When th' very heat of <hi>Noses</hi> indignation,</l>
+               <l>Meant to have fier'd all the Records ith' Nation;</l>
+               <l>So that for future, nought but <hi>score</hi> and <hi>talley,</hi>
+               </l>
+               <l>By some <hi>ingenious Dray-man</hi> rank'd in rally,</l>
+               <l>Should have remaind remembrancers of right;</l>
+               <l>No roules, save writ in blood had come in sight.</l>
+               <l>But squint<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eyd <hi>Lenthall,</hi> that <hi>triumphant Iew</hi>
+               </l>
+               <l>Oppos'd his wrath (to give the Devill his due)</l>
+               <l>For he is conscious were the <hi>Rolls</hi> puld down</l>
+               <l>H' has nere a house of 's one about the town.</l>
+               <l>Nay that young start up, trickt up like a Player,</l>
+               <l>His <hi>Six Cleark</hi> sonne, 's iniquities blest heire,</l>
+               <l>That thrives so well in those good qualities,</l>
+               <l>Of drink and drabbs, theres hopes heele loose his thighs</l>
+               <l>By Amphutation or dismembring (either)</l>
+               <l>If the pox consume not's pamperd corps together.</l>
+               <l>He had lost his new office (which some know</l>
+               <l>Is better then his patrimony I trow.)</l>
+               <l>If's Father nere, like a lame toad had lept</l>
+               <l>Into the <hi>Speakers chaire,</hi> he might have crept</l>
+               <l>Into od corners of good fellow hip</l>
+               <l>To nip a bnuge, and so been choakt with pip.</l>
+               <l>Presbyter <hi>Iohn</hi> now you may put on sackcloth</l>
+               <l>A leave to preach in thread-bare cloaks of black-cloath;</l>
+               <l>For put the case another King were brought</l>
+               <l>To <hi>Holmby</hi> house a prisoner, to be taught</l>
+               <l>To spell Religion backward by a Covenant,</l>
+               <l>And renounce grace your rash desires to grant,</l>
+               <l>And he with Christian magnanimity</l>
+               <l>Should still defend his soule from perjury,</l>
+               <l>And all your sophick machinations were</l>
+               <l>Retorted on your your soules, till black despair,</l>
+               <l>For e're usurping th' reverend Bishops chair,</l>
+               <l>Seize on your soules, how would you plot revenge</l>
+               <l>Wanting a <hi>Crumwell</hi> for to crowch and cringe,</l>
+               <l>By curst insinuation into's favour,</l>
+               <l>To swear, forswear, dissemble, lye and slavour,</l>
+               <pb n="4" facs="tcp:165264:3"/>
+               <l>Till's innocent credulity ensuar'd</l>
+               <l>Prove him a <hi>Iob</hi> in sufferings when debarr'd</l>
+               <l>Of Kingly liberty, by prophane force</l>
+               <l>To bring him to a Martirs death, nay worse,</l>
+               <l>Could they have murdred soule and body too</l>
+               <l>(As they endeavour'd his glorious name to do)</l>
+               <l>Their hell hatch'd hate would triumph were they sure</l>
+               <l>His soule like theirs, hells torments should endure.</l>
+               <l>
+                  <hi>Most mighty NOSE.</hi> O shield thee from the glaund<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s,</l>
+               <l>Thou that containst the marrow of Commanders.</l>
+               <l>This was thy work, how had we done to bring</l>
+               <l>To th' fatall block, so wise, so just a King,</l>
+               <l>If <hi>Peeters</hi> had not stablisht strong thy heart</l>
+               <l>In <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat rare doctrin, that King-killing art?</l>
+               <l>And may we not well mourn to part with thee,</l>
+               <l>Whose blood-shot eyes have out-star'd Majesty?</l>
+               <l>And though thou Basilisk like, with poysonous spight</l>
+               <l>Couldst not confound him with thy hideous sight,</l>
+               <l>Yet thou couldst force thy Imps the traiterous <hi>Commons</hi>
+               </l>
+               <l>To warn him rudely by an unjust summons,</l>
+               <l>T' appeare before a perjur'd Convocation</l>
+               <l>Of <hi>Brewers, Tapsters, Tinkers,</hi> of good fashion;</l>
+               <l>And hadst not thou been there to bribe the Slaves,</l>
+               <l>To cry for iustice Iustice, (O heaven save's</l>
+               <l>From murderers and tyrants) he had been</l>
+               <l>Alive to raign as King (a heavy sin.)</l>
+               <l>Those <hi>puny Sophisters,</hi> that sit and wrangle</l>
+               <l>The Kingdome out of all their wealth, and tangle</l>
+               <l>The wretched people in traps, gins, and snares</l>
+               <l>By open force (not when by unawares)</l>
+               <l>These these without thy dictates nere durst make</l>
+               <l>A knick knack yet that with or treason speak;</l>
+               <l>How are we bound to thee whose <hi>bright Nose</hi> shines</l>
+               <l>Like a red Sun, or best of claret of wines.</l>
+               <l>Nay I must speak thy praises who for merrit</l>
+               <l>Though not in Heaven, in Hell art sure t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> inherit.</l>
+               <l>Of thy descent or breeding 'twere vaine glory</l>
+               <l>To trouble honest eares with a vain story.</l>
+               <pb n="5" facs="tcp:165264:4"/>
+               <l>Because the Reverend <hi>Draymen</hi> all know well</l>
+               <l>For <hi>bungeing, flinging,</hi> O thou borest the bell</l>
+               <l>In thy young dayes; but where thy mother whelpt,</l>
+               <l>(Or who to case her of her burthen helpt,</l>
+               <l>When thou camst forth to terrifie the earth</l>
+               <l>By thy prodigious ill portending birth)</l>
+               <l>Wee'l nere examine, nor we need not dive</l>
+               <l>To see how thou camst on, and now doth thrive</l>
+               <l>Since thy first serving of thy now made slaves,</l>
+               <l>Since thou wast sent from <hi>Lucifer</hi> to save's</l>
+               <l>From turning to our old abomination</l>
+               <l>Of serving God sans frantick profanation;</l>
+               <l>These mighty works we know heaven hath permitted;</l>
+               <l>And thee for th' <hi>fire brand</hi> of confusion fitted.</l>
+               <l>Who still persisting zealous for the cause</l>
+               <l>Of Independant barbartime, (whose Laws</l>
+               <l>Are capitally wrote in bloody lines</l>
+               <l>As a fit rule for after heathenish times)</l>
+               <l>Art now upon thy march, either to rue</l>
+               <l>Thy cursed birth, a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d give the D vill his due,</l>
+               <l>Or else to reinvolve poor <hi>Ireland</hi> in</l>
+               <l>A loody mantle, if th' inchanted skin</l>
+               <l>B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nitrable, but I hope</l>
+               <l>Thoult hardly live to crack a well spun rope,</l>
+               <l>Which <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thou do'st this Epitaph shall be</l>
+               <l>The just conserver of thy in amie,</l>
+               <l>
+                  <hi>Here lies a Devill incarnate, who nor death,</hi>
+               </l>
+               <l>
+                  <hi>Nor open danger could deprive of breath,</hi>
+               </l>
+               <l>
+                  <hi>Till sledge and rope, and Hangmans Axe did quarter</hi>
+               </l>
+               <l>
+                  <hi>This Traito<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, who deserves worse then hells torture.</hi>
+               </l>
+               <l>Thus thus I have with brevity orerun</l>
+               <l>Thy matchlesse deeds that will outlive the sun,</l>
+               <l>Thy same deserves to be writ down on tables</l>
+               <l>Of such rogues hearts turn Churches into stables.</l>
+               <l>Nay th' <hi>Iuncto</hi> ought each one to cut's own throat</l>
+               <l>(Without referring the matter to a Vote)</l>
+               <l>And with their bloods to write a Declaration</l>
+               <l>Of thy brave feates to <hi>their Elect of th' Nation.</hi>
+               </l>
+               <pb n="6" facs="tcp:165264:4"/>
+               <l>O <hi>London, London,</hi> you most wretched sinners,</l>
+               <l>Who made so many great thanksgiving dinners;</l>
+               <l>Now y'had more need to make the Conduits weep</l>
+               <l>Strong Sack and Claret for our sorrows deep;</l>
+               <l>Your suit of Plate (rope stretch you for your kindnesse)</l>
+               <l>Hath struck us all into a mournfull blindnesse,</l>
+               <l>That and the purse of Gold you consecrated</l>
+               <l>To this great <hi>Idell</hi> (may you still be hated</l>
+               <l>For th' hundred fifty thousand pound you lent)</l>
+               <l>These summes dread <hi>Oliver</hi> hath packing sent.</l>
+               <l>Now put the case your boyes should cut your throates,</l>
+               <l>How would ye doe to hire in more Rod-coats</l>
+               <l>To put them to the rour, and make you stand</l>
+               <l>Like Rye-dow images with cap in hand?</l>
+               <l>How how'le ye do now to be kept in awe</l>
+               <l>By Rogues and Ruffins, more then God or Law</l>
+               <l>Now <hi>Crumwells</hi> gone? For his out-braving crew</l>
+               <l>Made slaves oth' Parliament, <hi>Cuckolds</hi> of you.</l>
+               <l>Why shreiv'd ye not your selves of all the evill</l>
+               <l>Vpon <hi>Saint NOSES day?</hi> (shields from the Devill)</l>
+               <l>On such a day not for to mourn and bellow</l>
+               <l>In sad new catches like a boone good fellow,</l>
+               <l>It argues hees a Publican at least,</l>
+               <l>When th' Independant weeps dare quaffe and feast.</l>
+               <l>How do ye thinke this land should ere be blest</l>
+               <l>With peace, or plenty, or at quiet rest</l>
+               <l>So long as men refuse to congregate</l>
+               <l>And pray for vengence each on's neighbours pate?</l>
+               <l>To pray these blades may wade to th'knees in blood,</l>
+               <l>And make heaven seem to countenance it for good;</l>
+               <l>To play the hypocrites in perfect shape,</l>
+               <l>And make each Zelot prove the Devills ape;</l>
+               <l>To roare at Church in most blasphemous noates</l>
+               <l>Of sorrow, cause we can't cut good mens throats:</l>
+               <l>To force down power from heaven with yealps and cries</l>
+               <l>To Massacre, Oppresse, and Tyrannize;</l>
+               <l>Vntill wee make this land, and others too,</l>
+               <l>Vallies of teares, stages of grief and woe.</l>
+               <pb n="7" facs="tcp:165264:5"/>
+               <l>Vntill the Saints (who have tight to't by birth)</l>
+               <l>Have made each place seem perfect hell on earth.</l>
+               <l>He that can pray for these things, and forget</l>
+               <l>
+                  <hi>Noses</hi> prosperity, when in's throne set</l>
+               <l>If these rare jems to's prayers cannot win him,</l>
+               <l>I'le say not much, but think the devill's in him.</l>
+               <l>Now now farewell ye <hi>Oliverian</hi> bilbowes,</l>
+               <l>To th' back as true as well-strung steel-bowes.</l>
+               <l>May th' Parliament remember to befreind ye,</l>
+               <l>And ropes and butter whole ships lading send ye.</l>
+               <l>And may brave <hi>Ormond</hi> that most loyall sinner</l>
+               <l>Give you a breakfast, that you need no dinner,</l>
+               <l>He he I consider all your toyles and labours,</l>
+               <l>And send ye to fright Hell with trumps and tabors,</l>
+               <l>Where <hi>Oliver</hi> may raign world without end,</l>
+               <l>
+                  <hi>Great Lord Leiftenant, Lucifer<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> best freind:</hi>
+               </l>
+               <l>But first I doubt me ye'l be foundly bang'd,</l>
+               <l>So twice adeiu, that's farewell and be hang'd.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
